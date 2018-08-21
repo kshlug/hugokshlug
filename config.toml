@@ -9,7 +9,7 @@ disqusShortname = "kshlug-ir" # delete this to disable disqus comments
 [params]
     author = "کرمانشاه‌لاگ"
     description = "به کرمانشاه لاگ خوش آمدید :) لاگ به معنی گروه کاربران گنو/لینوکس است و از افراد مختلف که به منظور تبادل اطلاعات در حوزه‌ی نرم‌افزارهای آزاد و متن‌باز دور هم جمع می‌شوند، تشکیل شده است. اگر تمایل دارید دانش خود را با دیگران به اشتراک بگذارید یا کنجکاوید تا از تکنولوژی‌های آزاد جدید اطلاعاتی کسب کنید و یا از بودن در کنار چند دوست فعال در این زمینه لذت می‌برید، با ما همراه شوید. در ضمن، شرکت در جلسات برای عموم آزاد و رایگان است. "
-    githubUsername = "#"
+    githubUsername = "kshlug"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
@@ -18,6 +18,8 @@ disqusShortname = "kshlug-ir" # delete this to disable disqus comments
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "c++", "c", "python", "ruby"]
     address = "آدرس: بلوار شهید بهشتی، موسسه آموزشی جهاد دانشگاهی"
+    telegram= "tiny.cc/Kermanshah"
+    author_link = "kshlug"
 [[menu.main]]
     url = "/"
     name = "خانه"

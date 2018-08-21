@@ -5,6 +5,7 @@ description = "گزارش جلسه ۱۹"
 date = "1397/05/29"
 title = "گزارش جلسه 19 از لاگ کرمانشاه"
 author = "حمید صیدی"
+author_link = "freetux"
 +++
 
 
