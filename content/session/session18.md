@@ -3,6 +3,7 @@ title: "جلسه ی ‍۱۸"
 date: "1397-04-13"
 categories:
     - "sessions"
+description : "جلسه هجدهم لاگ کرمانشاه "
 ---
 توضیحات نشست:
 

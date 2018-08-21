@@ -5,7 +5,7 @@ title = "پیام دسته جمعی تلگرام"
 draft = false
 tags = ["shell script", "linux"]
 category = ["shell script", "linux"]
-description = ""
+description = "با این اسکریپت ساده میتوانید بصورت دسته جمعی به مخاطبان خود پیام بفرستید"
 author = "حمید صیدی"
 +++
 

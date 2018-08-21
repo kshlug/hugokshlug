@@ -5,7 +5,7 @@ title = "تغییر نام فایل ویدئویی و زیرنویس با بست
 draft = false
 tags = ["python", "linux"]
 category = ["python", "linux"]
-description = ""
+description = "حل مشکل اسم‌های آزار دهنده فایل های ویدئویی با کمک پایتون"
 author = "حمید صیدی"
 +++
 

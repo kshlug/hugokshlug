@@ -3,7 +3,7 @@ date = "2017-08-31T16:32:28+04:30"
 title = "معرفی هیوگو"
 draft = false
 tags = ["هوگو", "هیوگو"]
-description = ""
+description = "هیوگو یک وبسایت فریم ورک عمومی است. مطابق اصول هیوگو یک  static site generator  است."
 author = "محسن نظام الملکی"
 +++
 
