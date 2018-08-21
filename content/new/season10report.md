@@ -1,6 +1,6 @@
 +++
 Slug= "s10-report"
-date= "2016-11-09 23:20"
+date= "2016-11-09"
 title= "گزارش جلسه شماره ۱۰ لاگ کرمانشاه"
 tags = ["reports", "lug sessions", "گزارش جلسات"]
 Category= "گزارش جلسات"

@@ -2,7 +2,7 @@
 draft = false
 tags = ["reports", "lug sessions", "گزارش جلسات"]
 description = "گزارش جلسه ۱۹"
-date = "1397/05/29"
+date = "1397-05-29"
 title = "گزارش جلسه 19 از لاگ کرمانشاه"
 author = "حمید صیدی"
 author_link = "freetux"
