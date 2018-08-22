@@ -18,11 +18,11 @@
 
     <h5>
         نویسنده: {{ if and (isset .Params "author") (isset .Params "author_link")}} 
-        <li class="navbar-icon"><a href="{{ printf "https://t.me/%s/" $.Params.author_link }}"><i class="fa fa-telegram"></i> {{ .Params.author }}</a></li>
+        <a href="{{ printf "https://t.me/%s/" $.Params.author_link }}"><i class="fa fa-telegram"></i> {{ .Params.author }}</a>
         
         {{else if isset .Params "author"}} {{ .Params.author }} {{else }}
         
-        <a href="{{ printf "https://t.me/%s/" $.Site.Params.author_link }}">{{ .Site.Params.author }}</a><i class="fa fa-telegram"></i></a>
+        <a href="{{ printf "https://t.me/%s/" $.Site.Params.author_link }}"><i class="fa fa-telegram"></i>{{ .Site.Params.author }}</a>
         
         
         
