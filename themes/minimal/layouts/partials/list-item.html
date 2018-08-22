@@ -22,7 +22,7 @@
         
         {{else if isset .Params "author"}} {{ .Params.author }} {{else }}
         
-        <li class="navbar-icon"><a href="{{ printf "https://t.me/%s/" $.Site.Params.author_link }}">{{ .Site.Params.author }}</a><i class="fa fa-telegram"></i></a></li>
+        <a href="{{ printf "https://t.me/%s/" $.Site.Params.author_link }}">{{ .Site.Params.author }}</a><i class="fa fa-telegram"></i></a>
         
         
         
