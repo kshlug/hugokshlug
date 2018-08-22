@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = " کرمانشاه لاگ"
 theme = "minimal"
 disqusShortname = "kshlug-ir" # delete this to disable disqus comments
-
+shamsiDateFormat = "d MMMماه yyyy"
 
 
 [params]
@@ -20,6 +20,7 @@ disqusShortname = "kshlug-ir" # delete this to disable disqus comments
     address = "آدرس: بلوار شهید بهشتی، موسسه آموزشی جهاد دانشگاهی"
     telegram= "tiny.cc/Kermanshah"
     author_link = "kshlug"
+    
 [[menu.main]]
     url = "/"
     name = "خانه"

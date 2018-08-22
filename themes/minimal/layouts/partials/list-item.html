@@ -12,8 +12,9 @@
         {{ $.Scratch.Get "subtitle" }}
     </h4>
     <h4>
-        {{ $.Scratch.Get "date" }}
+        {{ .Params.shamsiDate }}
     </h4>
+    <h6>{{ $.Scratch.Get "date" }}</h6>
 
     <h5>
         نویسنده: {{ if and (isset .Params "author") (isset .Params "author_link")}} <a href="{{ printf "https://t.me/%s/" $.Params.author_link }}">{{ .Params.author }}</a>

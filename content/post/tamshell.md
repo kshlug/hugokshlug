@@ -1,14 +1,22 @@
 +++
-Slug= "tamshell"
 date = "2016-08-31T16:32:28+04:30"
 title = "پیام دسته جمعی تلگرام"
+author_link = "freetux"
+tags = [
+  "shell script",
+  "linux",
+]
 draft = false
-tags = ["shell script", "linux"]
-category = ["shell script", "linux"]
-description = "با این اسکریپت ساده میتوانید بصورت دسته جمعی به مخاطبان خود پیام بفرستید"
+shamsiDate = "۱۰ شهریورماه ۱۳۹۵"
 author = "حمید صیدی"
-+++
+description = "با این اسکریپت ساده میتوانید بصورت دسته جمعی به مخاطبان خود پیام بفرستید"
+category = [
+  "shell script",
+  "linux",
+]
+Slug = "tamshell"
 
++++
 
 سلام.
 یلدا تموم شد .امیدوارم شب یلدای به یاد موندنی رو کنار خانوادتون گذرونده باشید.

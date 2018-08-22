@@ -1,14 +1,19 @@
 +++
-Slug= "s10-report"
-date= "2016-11-09"
-title= "گزارش جلسه شماره ۱۰ لاگ کرمانشاه"
-tags = ["reports", "lug sessions", "گزارش جلسات"]
-Category= "گزارش جلسات"
-draft = false
+date = "2016-11-09"
+Category = "گزارش جلسات"
+title = "گزارش جلسه شماره ۱۰ لاگ کرمانشاه"
 description = "گزارش جلسه ۱۰"
+Slug = "s10-report"
+draft = false
 author = "حمید صیدی"
-+++
+tags = [
+  "reports",
+  "lug sessions",
+  "گزارش جلسات",
+]
+shamsiDate = "۱۹ آبانماه ۱۳۹۵"
 
++++
 
 <img src="/img/sessions/s10-00.jpg" alt="[جلسه ۱۰]" width="100%"/>
 </br>

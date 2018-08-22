@@ -1,8 +1,10 @@
 +++
-draft = false
-title = "مرامنامه"
 date = "2017-08-29T15:12:46+04:32"
 description = "مرامنامه لاگ کرمانشاه"
+draft = false
+shamsiDate = "۷ شهریورماه ۱۳۹۶"
+title = "مرامنامه"
+
 +++
 
 ۰- احترام به همه

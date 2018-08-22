@@ -1,14 +1,18 @@
 +++
+shamsiDate = "۱۷ خردادماه ۷۷۶"
 draft = false
-tags = ["reports", "lug sessions", "گزارش جلسات"]
+tags = [
+  "reports",
+  "lug sessions",
+  "گزارش جلسات",
+]
 description = "گزارش جلسه ۱۹"
 date = "1397-05-29"
 title = "گزارش جلسه 19 از لاگ کرمانشاه"
 author = "حمید صیدی"
 author_link = "freetux"
+
 +++
-
-
 
 <img src="/img/sessions/s19-00.jpg" alt="[جلسه ۱۹]" width="100%"/>
 </br>
