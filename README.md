@@ -1,3 +1,5 @@
+
+<div dir="rtl">
 ![Build Status](https://gitlab.com/kshlug/kshlug.gitlab.io/badges/master/build.svg)
 
 ---
@@ -15,7 +17,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-<div dir="rtl">
 # چگونه میتوانید کمک کنید؟
 
 ## نحوه ی کار با پروژه بر روی کامپیوتر شخصی
