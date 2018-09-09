@@ -41,6 +41,17 @@ If you **clone** or **download** this project to your local computer and run `hu
 your site can be accessed under `localhost:1313/hugo/`.
 
 
+
+
+<div dir="rtl">
+### ارسال مطلب و ویرایش وبسایت
+برای این کار کافیست تغییرات را به این مخزن push کنید.
+این مخزن توسط بویلد میشود و دیتای سایت در این
+[مخزن][]
+شما نیاز نیست کار خاصی کنید!
+</div>
+
+
 ## Troubleshooting
 
 1. CSS is missing! That means two things:
@@ -49,6 +60,7 @@ your site can be accessed under `localhost:1313/hugo/`.
     your static generator has a configuration option that needs to be explicitly
     set in order to serve static assets under a relative URL.
 
+
 [ci]: https://about.gitlab.com/gitlab-ci/
 [hugo]: https://gohugo.io
 [install]: https://gohugo.io/overview/installing/
@@ -56,13 +68,4 @@ your site can be accessed under `localhost:1313/hugo/`.
 [userpages]: http://doc.gitlab.com/ee/pages/README.html#user-or-group-pages
 [projpages]: http://doc.gitlab.com/ee/pages/README.html#project-pages
 [post]: https://about.gitlab.com/2016/04/07/gitlab-pages-setup/#custom-domains
-</div>
-
-
-<div dir="rtl">
-### ارسال مطلب و ویرایش وبسایت
-برای این کار کافیست تغییرات را به این مخزن push کنید.
-این مخزن توسط بویلد میشود و دیتای سایت اینجا[در این مخزن](http://github.com/kshlug/kshlug.github.io)
-شما نیاز نیست کار خاصی کنید!
-</div>
-
+[مخزن]: http://github.com/kshlug/kshlug.github.io
