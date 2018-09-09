@@ -21,7 +21,7 @@
 # چگونه میتوانید کمک کنید؟
 
 ## نحوه ی کار با پروژه بر روی کامپیوتر شخصی
-
+</div>
 To work locally with this project, you'll have to follow the steps below:
 
 1. **Fork**, clone or download this project
@@ -30,9 +30,12 @@ To work locally with this project, you'll have to follow the steps below:
 1. Add content
 1. Generate the website: `hugo` (غیر لازم برای این پروژه)
 
+<div dir="rtl">
 برای مطالعه ی بیشتر برای کار با هوگو به وبسایت آن مراجعه کنید. [documentation][].
 
 ### پیش نمایش وبسایت
+</div>
+
 
 If you **clone** or **download** this project to your local computer and run `hugo server`,
 your site can be accessed under `localhost:1313/hugo/`.
