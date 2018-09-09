@@ -1,5 +1,5 @@
 
-![Build Status](https://gitlab.com/kshlug/kshlug.gitlab.io/badges/master/build.svg)
+[![Build Status](https://travis-ci.org/kshlug/hugokshlug.svg?branch=master)](https://travis-ci.org/kshlug/hugokshlug)
 
 
 <div dir="rtl">
