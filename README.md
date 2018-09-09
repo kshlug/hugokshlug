@@ -62,6 +62,6 @@ your site can be accessed under `localhost:1313/hugo/`.
 <div dir="rtl">
 ### ارسال مطلب و ویرایش وبسایت
 برای این کار کافیست تغییرات را به این مخزن push کنید.
-این مخزن توسط travis ci بویلد میشود و دیتای سایت در این مخزن #kshlug/kshlug.github.io  شما نیاز نیست کار خاصی کنید!
+این مخزن توسط travis ci بویلد میشود و دیتای سایت در این مخزن #kshlug.github.io  شما نیاز نیست کار خاصی کنید!
 </div>
 
