@@ -31,7 +31,7 @@ To work locally with this project, you'll have to follow the steps below:
 1. Generate the website: `hugo` (غیر لازم برای این پروژه)
 
 <div dir="rtl">
-برای مطالعه ی بیشتر برای کار با هوگو به وبسایت آن مراجعه کنید. [documentation][].
+برای مطالعه ی بیشتر برای کار با هوگو به وبسایت آن مراجعه کنید.
 
 ### پیش نمایش وبسایت
 </div>
@@ -57,3 +57,11 @@ your site can be accessed under `localhost:1313/hugo/`.
 [projpages]: http://doc.gitlab.com/ee/pages/README.html#project-pages
 [post]: https://about.gitlab.com/2016/04/07/gitlab-pages-setup/#custom-domains
 </div>
+
+
+<div dir="rtl">
+### ارسال مطلب و ویرایش وبسایت
+برای این کار کافیست تغییرات را به این مخزن push کنید.
+این مخزن توسط travis ci بویلد میشود و دیتای سایت در [این مخزن](https://github.com/kshlug/kshlug.github.io)  شما نیاز نیست کار خاصی کنید!
+</div>
+
