@@ -1,9 +1,9 @@
 +++
 weight = 1
 author = "آفش "
-date = "1396-08-25"
+date = "2017-11-16"
 title = "جشن نصب لاگ کرمانشاه(install fest)"
-shamsiDate = "۱۲ شهریورماه ۷۷۵"
+shamsiDate = "۲۵ آبانماه ۱۳۹۶"
 draft = false
 description = "جشن نصب گنو/لینوکس و آشنایی با پایتون"
 
