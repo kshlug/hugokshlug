@@ -15,7 +15,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
+<div dir="rtl">
 # چگونه میتوانید کمک کنید؟
 
 ## نحوه ی کار با پروژه بر روی کامپیوتر شخصی
@@ -51,3 +51,4 @@ your site can be accessed under `localhost:1313/hugo/`.
 [userpages]: http://doc.gitlab.com/ee/pages/README.html#user-or-group-pages
 [projpages]: http://doc.gitlab.com/ee/pages/README.html#project-pages
 [post]: https://about.gitlab.com/2016/04/07/gitlab-pages-setup/#custom-domains
+</div>
