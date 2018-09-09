@@ -6,7 +6,7 @@
 
     {{ .Date.Format (.Site.Params.dateFormat | default "2006/1/2") | $.Scratch.Set "date" }}
     {{ with .Description }} {{ $.Scratch.Set "subtitle" . }} {{ end }}
-
+   
     <h3><a href="{{ .Scratch.Get "link" }}">{{ .Title }}</a></h3>
     <h4>
         {{ $.Scratch.Get "subtitle" }}
