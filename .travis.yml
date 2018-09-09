@@ -14,7 +14,7 @@ install:
     - rm -rf public 2> /dev/null
 
 script:
-    - hugo --theme minimal
+    - hugo --theme=minimal
     - echo 'kshlug.ir' > public/CNAME
 
 deploy:
