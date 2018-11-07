@@ -1,7 +1,7 @@
 ---
 categories:
 - sessions
-date: 2018-11-20
+date: 2018-11-07
 description: جلسه بیستم لاگ کرمانشاه
 shamsiDate: ۲۹ آبانماه ۱۳۹۷
 title: نشست بیستم لاگ کرمانشاه
