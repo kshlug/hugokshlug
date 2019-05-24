@@ -24,32 +24,38 @@ shamsiDateFormat = "d MMMماه yyyy"
 [[menu.main]]
     url = "/"
     name = "خانه"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     url = "/session/"
     name = "جلسه‌های لاگ"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     url = "/about/"
     name = "درباره ما"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     url = "/new/"
     name = "اخبار"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     url = "/event/"
     name = "رویداد ها"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     url = "/post/"
     name = "پست های آزاد"
+    weight = 2
+
+[[menu.main]]
+    url = "https://lugs.ir"
+    name = "لاگ‌های دیگر"
     weight = 1
+
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
