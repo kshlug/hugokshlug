@@ -1,6 +1,6 @@
 +++
 shamsiDate = "۳۱ اردیبهشت ماه ۱۳۹۸"
-draft = true
+draft = false
 tags = [
   "reports",
   "lug sessions",

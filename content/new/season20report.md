@@ -1,6 +1,6 @@
 +++
 shamsiDate = "۲۹ آبانماه ۱۳۹۷"
-draft = true
+draft = false
 tags = [
   "reports",
   "lug sessions",
